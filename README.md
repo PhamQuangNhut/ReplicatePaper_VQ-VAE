@@ -1,4 +1,4 @@
-# pytorch-vq-vae
+# ReplicatePaper_VQ-VAE
 PyTorch Lightning implementation of VQ-VAE by Pham Quang Nhut.
 
 ## Requirements

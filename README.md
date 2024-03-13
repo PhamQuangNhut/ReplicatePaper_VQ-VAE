@@ -11,7 +11,7 @@ $ pip3 install -r requirements.txt
 
 See [Colab.ipynb](Colab.ipynb)
 
-## Experiemts 
+## Experiments 
 
 Results on 10k step (Paper's experiment train on 25k step)
 
